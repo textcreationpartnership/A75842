@@ -1,0 +1,523 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Account of what passed at the execution of the late Duke of Monmouth on Wednesday the 15th of July, 1685, on Tower-Hill together with a paper signed by himself that morning in the Tower, in the presence of the Lords Bishops of Ely, and Bath and Wells, Dr. Tennison and Dr. Hooper : and also the copy of his letter to His Majesty after he was taken, dated at Ringwood in Hantshire, the 8th of July.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75842</idno>
+            <idno type="STC">Wing A433A</idno>
+            <idno type="STC">ESTC R175360</idno>
+            <idno type="EEBO-CITATION">43077456</idno>
+            <idno type="OCLC">ocm 43077456</idno>
+            <idno type="VID">151506</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75842)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151506)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2261:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Account of what passed at the execution of the late Duke of Monmouth on Wednesday the 15th of July, 1685, on Tower-Hill together with a paper signed by himself that morning in the Tower, in the presence of the Lords Bishops of Ely, and Bath and Wells, Dr. Tennison and Dr. Hooper : and also the copy of his letter to His Majesty after he was taken, dated at Ringwood in Hantshire, the 8th of July.</title>
+                  <author>Monmouth, James Scott, Duke of, 1649-1685.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Horne, John Baker and Benjamin Tooke,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in: Newberry Library, Chicago, Ill.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Monmouth, James Scott, --  Duke of, 1649-1685.</term>
+               <term>Monmouth's Rebellion, 1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb n="1" facs="tcp:151506:1" rendition="simple:additions"/>
+            <p>AN ACCOUNT Of what Paſſed at the EXECUTION OF THE LATE Duke of Monmouth, On <hi>Wedneſday</hi> 
+               <date>the 15th. of <hi>July,</hi> 1685.</date> on <hi>Tower-Hill.</hi>
+            </p>
+            <p>TOGETHER, With a Paper Signed by Himſelf that Morning in the <hi>Tower,</hi> in the Preſence of the Lords Biſhops of <hi>Ely,</hi> and <hi>Bath</hi> and <hi>Wells,</hi> Dr. <hi>Tenniſon,</hi> and Dr. <hi>Hooper.</hi>
+            </p>
+            <p>AND ALSO, The Copy of His Letter to His MAJESTY after he was taken, Dated at <hi>Ringwood</hi> in <hi>Hantſhire,</hi> the 8th. of <hi>July.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <p>THE late <hi>Duke of Monmouth</hi> came from the <hi>Tower</hi> to the Scaffold, attend<g ref="char:EOLhyphen"/>ed by the Biſhop of <hi>Ely,</hi> the Biſhop of <hi>Bath</hi> and <hi>Wells,</hi> Dr. <hi>Teniſon,</hi> and Dr. <hi>Hooper;</hi> which Four the <hi>King</hi> was graciouſly pleaſed to ſend him as his Aſſiſtants to prepare him for Death; and the <hi>late Duke</hi> himſelf intreated all Four of them, to accompany him to the Place of Execution, and to continue with him to the laſt. The Two Biſhops going in the Lieu<g ref="char:EOLhyphen"/>tenant's Coach with him to the Barrs, made ſeaſonable and devout Applications to him all the way: And one of them deſired him not to be ſurprized, if they to the very laſt upon the Scaffold, renewed thoſe Exhortations to a <hi>Particular Repentance,</hi> which they had ſo often repeated before.</p>
+            <p>At his firſt coming upon the Scaffold, he looked for the Executioner, and ſeeing him, ſaid, <hi>Is this the Man to do the buſineſs? Do your work well.</hi>
+            </p>
+            <p>Then the late Duke of <hi>Monmouth</hi> began to ſpeak, ſome one or other of the Aſſiſtants, during the whole time, applying themſelves to him.</p>
+            <sp>
+               <speaker>Monmouth.</speaker>
+               <p>
+                  <hi>I ſhall ſay but very little; I come to Die; I die a Proteſtant of the Church of</hi> England.</p>
+            </sp>
+            <sp>
+               <speaker>Aſſiſtants.</speaker>
+               <p>My Lord, if you be of the Church of <hi>England,</hi> you muſt acknowledge the Doctrine of <hi>Non-reſiſtance</hi> to be True.</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>
+                  <hi>If I acknowledge the Doctrine of the Church of</hi> England <hi>in general, that includes all.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Sir, It is fit to own <hi>That</hi> Doctrine particularly, with reſpect to your Caſe. Here he was much urged about that Doctrine of <hi>Non-reſiſtance,</hi> but he repeated in effect his Firſt Anſwer.</p>
+               <stage>Then he began as if he was about to make a premeditated Speech, in this manner.</stage>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>
+                  <hi>I have had a Scandal raiſed upon me about a Woman, a Lady of Vertue and Honour. I will name her;</hi> the Lady Henrietta Wentworth. <hi>I declare, That ſhe is a very Vertuous
+<pb n="2" facs="tcp:151506:2"/>and Godly Woman. I have committed no Sin with her; and that which hath paſſed betwixt Us, was very Honeſt and Innocent in the ſight of God.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A</speaker>
+               <p>In your Opinion perhaps, Sir, as you have been often told; (<hi>i. e.</hi> in the Tower) but this is not fit Diſcourſe in this Place.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. Sher. Goſtlin.</speaker>
+               <p>Sir, Were you ever married to her?</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>
+                  <hi>This is not a Time to Anſwer that Queſtion.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr. Sher. Goſtlin.</speaker>
+               <p>Sir, I hoped to have heard of your Repentance for the Treaſon and Bloodſhed, which hath been committed.</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>
+                  <hi>I dye very Penitent.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>My Lord, It is fit to be <hi>Particular;</hi> and conſidering the <hi>Publick</hi> Evil you have done, you ought to do as much good now, as poſſibly you can, by a <hi>Publick</hi> acknowledgment.</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>
+                  <hi>What I have thought fit to ſay of</hi> Publick <hi>affairs, is in a Paper which I have ſigned; I refer to my Paper.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>My Lord, there is nothing in that Paper about <hi>Reſiſtance,</hi> and you ought to be <hi>Par<g ref="char:EOLhyphen"/>ticular</hi> in your Repentance, and to have it well grounded. God give you true Repentance.</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>
+                  <hi>I dye very Penitent, and dye with great Chearfulneſs, for I know I ſhall go to God.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>My Lord, You muſt go to God in his own way: Sir, be ſure you be truly Pe<g ref="char:EOLhyphen"/>nitent, and ask forgiveneſs of God, for the Many you have wronged.</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>
+                  <hi>I am ſorry for every one I have wronged, I forgive every Body, I have had many Enemies, I forgive them all.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Sir, your acknowledgment ought to be <hi>Publick</hi> and <hi>Particular.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>
+                  <hi>I am to die; pray, My Lord—I refer to my Paper.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>They are but a few Words that we deſire: We only deſire an Anſwer to this Point.</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>
+                  <hi>I can bleſs God that He hath given me ſo much Grace, that for theſe two years last paſt, I have led a Life unlike to my former Courſe, and in which I have been happy.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Sir, Was there no Ill in theſe two Years? In theſe Years, theſe great Evils have happened, and the giving <hi>publick</hi> Satisfaction is a neceſſary part of Repentance; be pleaſed to own a Deteſtation of your REBELLION.</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>
+                  <hi>I beg your Lordſhip that you will ſtick to my Paper.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>My Lord, as I ſaid before, there is nothing in your Paper, about the Doctrine of <hi>Non-reſiſtance.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>
+                  <hi>I repent of all things that a true Chriſtian ought to repent of. I am to die; pray, My Lord—</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Then (My Lord) we can only recommend you to the Mercy of God, but we cannot pray with that Chearfulneſs, and Encouragement as we ſhould, if you had made a <hi>Particular</hi> Acknowledgment.</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>
+                  <hi>God be praiſed, I have Encouragement enough in my ſelf; I die with a clear Conſci<g ref="char:EOLhyphen"/>ence; I have wronged no man.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>How Sir, no Man? Have you not been guilty of <hi>Invaſion,</hi> and of much <hi>Blood,</hi> which has been ſhed, and it may be of the loſs of <hi>many Souls</hi> who followed you? You muſt needs have wronged a great many.</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>
+                  <hi>I do, Sir, own that, and am very ſorry for it.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Give it the <hi>true</hi> name, Sir, and call it <hi>Rebellion.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>
+                  <hi>What name you pleaſe, Sir, I am ſorry for</hi> invading <hi>the Kingdom, and for the</hi> Blood <hi>that has been ſhed, and for the</hi> Souls <hi>which may have been loſt by my means, I am ſorry it ever happened</hi> 
+                  <stage>[which he ſpake ſoftly.]</stage>
+               </p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>Mr. Sher. Vandeput.</hi> 
+               </speaker>
+               <p>
+                  <stage>[To ſome that ſtood at a diſtance.]</stage> He ſayes he is very ſorry for <hi>invading the Kingdom.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>We have nothing to add, but to renew the frequent Exhortations we have made to you, to give ſome Satisfaction for the <hi>publick</hi> Injuries to the Kingdom. There have been a great many lives loſt by this <hi>Reſistance</hi> of your LAWFUL PRINCE.</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>
+                  <hi>What I have done has been very ill, and I wiſh with all my heart it had never been; I never was a man that delighted in Blood; I was very far from it; I was as cautious in that as any man was; the Almighty knows how I now die, with all the Joyfulneſs in the World.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>God grant you may, Sir; God give you <hi>True Repentance.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>
+                  <hi>If I had not</hi> True <hi>Repentance, I ſhould not ſo eaſily have been without the fear of dying. I ſhall die like a Lamb.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Much may come from natural Courage.</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>
+                  <hi>I do not attribute it to my own Nature, for I am fearful as other men are; but I have now no fear, as you may ſee by my Face, but there is ſomething within me which does it, for I am ſure I ſhall go to God.</hi>
+               </p>
+            </sp>
+            <pb n="3" facs="tcp:151506:2"/>
+            <sp>
+               <speaker>A.</speaker>
+               <p>My Lord, be ſure upon good Grounds; Do you repent you of all your Sins, <hi>known</hi> and <hi>unknown, confeſſed</hi> or <hi>not confeſſed,</hi> of all the Sins which might proceed from <hi>Error in Judgment?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>
+                  <hi>In general for all, I do with all my Soul.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>God Almighty of his infinite Mercy forgive you. Here are great numbers of Spectators, here are <hi>the Sheriffs,</hi> they repreſent the <hi>Great City,</hi> and in ſpeaking to them, you ſpeak to the whole City; make ſome Satisfaction by owning your <hi>Crime</hi> before them.</p>
+               <stage>
+                  <p>(He was ſilent here.)</p>
+                  <p>Then all went to ſolemn Commendatory Prayers, which continued for a good ſpace, the late Duke of <hi>Monmouth</hi> and the Company kneeling, and joyning in them with great fervency.</p>
+                  <p>Prayers being ended, before he and the four who aſſiſted him, were riſen from their knees, he was again earneſtly exhorted to a <hi>true</hi> and <hi>through</hi> Repentance.</p>
+                  <p>After they were riſen up, he was Exhorted to Pray for the KING; and was asked, Whither he did not deſire to ſend ſome dutiful Meſſage to <hi>His Majeſty,</hi> and to recom<g ref="char:EOLhyphen"/>mend <hi>His wife and Children</hi> to His <hi>Majesties</hi> Favour?</p>
+               </stage>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>
+                  <hi>What harm have they done? Do it if you pleaſe; I pray for Him, and for all Men:</hi>
+               </p>
+            </sp>
+            <stage>Then the Verſicles were Repeated.</stage>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>O Lord, ſhew thy Mercy upon us.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>
+                  <stage>[He made the Reſponſe]</stage> 
+                  <hi>And grant us thy Salvation.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <stage>[It followed]</stage> 
+                  <hi>O Lord ſave the KING.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>
+                  <hi>And Mercifully hear us, when we call upon thee.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Sir, Do you not pray for the <hi>KING</hi> with us? <stage>[The Verſicle was again Repeated]</stage>
+                  <hi>O Lord, ſave the KING.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>
+                  <stage>[After ſome pauſe, he anſwered]</stage> 
+                  <hi>Amen.</hi>
+               </p>
+            </sp>
+            <stage>THen he ſpake to the Executioner concerning his <hi>Undreſſing,</hi> &amp;c. and he would have no <hi>Cap;</hi> &amp;c. and at the beginning of <hi>His Undreſſing,</hi> it was ſaid to him on this manner:</stage>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>My Lord,</hi> You have been bred a <hi>Souldier;</hi> You will do a Generous Chriſtian-Thing, if you pleaſe to go to the Rail, and ſpeak to the <hi>Souldiers,</hi> and ſay, That here you ſtand a ſad Example of <hi>Rebellion,</hi> and intreat <hi>Them,</hi> and <hi>the People</hi> to be <hi>Loyal, and Obedient to the KING.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>
+                  <hi>I have ſaid, I will make no Speeches; I will make no Speeches; I come to dye.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>My Lord,</hi> Ten words will be enough.</p>
+               <stage>Then calling his Servant, and giving him ſomething like a Tooth-pick-Caſe, <hi>Here</hi> (ſaid he) <hi>give this to the Perſon, to whom you are to deliver the other things.</hi>
+               </stage>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>
+                  <stage>[To the Executioner]</stage>
+                  <hi>Here are ſix Guinneys for you; Pray do your buſineſs well; don't ſerve me, as you did my Lord</hi> Ruſſel: <hi>I have heard you ſtruck him three or four times.</hi>
+               </p>
+               <p>
+                  <hi>Here</hi> 
+                  <stage>[to his Servant]</stage> 
+                  <hi>take theſe remaining Guinneys, and give them to him, if he does his work well</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Executioner.</speaker>
+               <p>I hope I ſhall.</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>
+                  <hi>If you ſtrike me twice, I cannot promiſe you not to ſtir.</hi>
+               </p>
+            </sp>
+            <stage>
+               <p>During his <hi>Undreſſing,</hi> and <hi>ſtanding</hi> towards the <hi>Block,</hi> there were uſed by thoſe who aſſiſted him, divers Ejaculations proper at that time, and much of the fifty-firſt <hi>Pſalm</hi> was repeated, and particularly, <hi>Deliver me from Blood Guiltneſs, O God, thou God,</hi> &amp;c.</p>
+               <p>Then he lay down, and ſoon after he raiſed himſelf upon his Elbow, and ſaid to the Executioner, <hi>Prethee, let me feel the Ax;</hi> he felt the <hi>Edge,</hi> and ſaid, <hi>I fear it is not ſharp enough.</hi>
+               </p>
+            </stage>
+            <sp>
+               <speaker>Executioner.</speaker>
+               <p>It is ſharp enough, and heavy enough.</p>
+            </sp>
+            <p>Then he lay down again.</p>
+            <p>During this ſpace many Pious Ejaculations were uſed by thoſe, that aſſiſted him with great fervency. <hi>Ex. Gr. God accept your Repentance, God accept your Repentance, God accept your IMPERFECT Repe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tance,</hi> My Lord; <hi>God accept your GENERAL Re<g ref="char:EOLhyphen"/>pentance; God Almighty ſhew his OMNIPOTENT Mercy upon you; Father into thy hands we commend his Spirit,</hi> &amp;c. <hi>Lord Jeſus receive his Soul.</hi>
+            </p>
+            <p>Then the Executioner proceeded to do his Office.</p>
+            <closer>
+               <signed>This is a true Account, Witneſs our Hands,
+<list>
+                     <item>
+                        <hi>Francis Ely.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Bath</hi> and <hi>Wells.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Tenniſon.</hi>
+                     </item>
+                     <item>
+                        <hi>George Hooper.</hi>
+                     </item>
+                     <item>Sheriffs.
+<list>
+                           <item>
+                              <hi>William Goſtlin,</hi>
+                           </item>
+                           <item>
+                              <hi>Peter Vandeput,</hi>
+                           </item>
+                        </list>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="4" facs="tcp:151506:3"/>
+            <head>A Copy of the Paper, to which the late Duke of <hi>Monmouth</hi> referred himſelf in the Diſcourſes he held upon the Scaffold.</head>
+            <p>I Declare, That the Title of <hi>KING</hi> was forc't upon me; and, That it was very much contrary to my Opinion, when I was Proclaimed. For the Satisfaction of the World, I do declare, That the late <hi>King</hi> told me, He was never Married to my Mother. Having declared this, I hope that the <hi>King,</hi> who is now, will not let my Children ſuffer on this Account. And to this I put my Hand this Fifteenth Day of <hi>July,</hi> 1685.</p>
+            <closer>
+               <signed>
+                  <hi>MONMOUTH.</hi> Declared by himſelf, and Signed in the Preſence of Us,
+<list>
+                     <item>
+                        <hi>Francis Ely.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Bath</hi> and <hi>Wells.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Teniſon.</hi>
+                     </item>
+                     <item>
+                        <hi>George Hooper.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>A Copy of the late Duke of <hi>Monmouth's</hi> Letter to the KING, Dated from <hi>Ring-Wood</hi> 
+               <date>the 8th. of <hi>July, 1685.</hi>
+               </date>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>YOUR Majeſty may think, it is the Misfortune I now lie under, makes me make this Application to You: But I do aſſure Your Majeſty, it is the Remorſe I now have in me, of the Wrong I have done You in ſeveral things; and now, in taking up Arms againſt You. For my taking up Arms; It never was in my Thoughts, ſince the <hi>King</hi> Died: The Prince and Princeſs of <hi>Orange</hi> will be Wit<g ref="char:EOLhyphen"/>neſs for me, of the Aſſurance I gave them, That I would never ſtir againſt You. But my Misfortune was ſuch, as to meet with ſome Horrid People, that made me believe Things of Your Majeſty, and gave me ſo many falſe Arguments, that I was fully led away to believe, That it was a Shame, and a Sin before <hi>God,</hi> not to do it. But, <hi>SIR,</hi> I will not trouble Your Majeſty, at preſent, with many things I could ſay for my ſelf, that, I am ſure, would move Your Compaſſion. The Chief End of this <hi>Letter,</hi> being only to beg of You, That I may have that Happineſs, as to ſpeak to Your Majeſty: For I have that to ſay to You, <hi>SIR,</hi> that, I hope, may give You a long and Happy Reign. I am ſure, <hi>SIR,</hi> when You hear me, You will be convinced of the Zeal I have for Your Preſervation, and how heartily I Repent of what I have done. I can ſay no more to Your Majeſty now, being this <hi>Letter</hi> muſt be ſeen by thoſe that keep me. There<g ref="char:EOLhyphen"/>fore, <hi>SIR,</hi> I ſhall make an end, in begging of Your Majeſty to believe ſo well of me, That I would rather die a Thouſand Deaths, than excuſe any thing I have done, if I did not really think my ſelf the moſt in the Wrong, that ever any Man was; and had not from the bottom of my Heart an Abhorrence for thoſe, that put me upon it; and for the Action it ſelf. I hope, <hi>SIR, God</hi> Almighty will ſtrike Your Heart with Mercy and Compaſſion for me, as He has done mine with the Abhorrence of what I have done. Therefore, I hope, <hi>SIR,</hi> I may live to ſhew You, how zealous I ſhall ever be for Your Service; and could I ſay but one Word in this <hi>Letter,</hi> you would be con<g ref="char:EOLhyphen"/>vinced of it; but it is of that Conſequence, that I dare not do it. Therefore, <hi>SIR,</hi> I do beg of You once more, to let me ſpeak to You; for then You will be convinced, how much I ſhall ever be,</p>
+            <closer>
+               <signed>Your Majeſty's moſt Humble and Dutiful <hi>MONMOUTH.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London, <hi>Printed for</hi> Robert Horne, John Baker, <hi>and</hi> Benjamin Took, <hi>1685.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
